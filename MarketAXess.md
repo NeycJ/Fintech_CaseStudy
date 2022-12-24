@@ -11,6 +11,8 @@ MarketAxess is on path to remove the tale of two trading platforms.  Equity mark
 
 Today more than 1900 institutional investors and broker-dealer firms rely on MarketAxess to bring accurate market data to assist with trading decisions, connectivity solutions that facilitate straight-through processing and technology services to optimize trading environments. 
 
+![TaleofTwo](Challenge1.png) <png style width="10"> <png style height="10">
+
 **MarketAxess biggest disadvantage is not offering platform use to trade corporate and municipal bonds to retail investors and traders.**  However, no platform allows electronic bond trading among retail traders.  
 
 ##  <span style="color:orange"> Tech Stat </span>
@@ -26,13 +28,8 @@ MarketAxess is part of the Investor Management domain of financial industry.  Th
 The business impact to MarketAxess is losing market share due to their competitors like Bloomberg, Interactive Brokers, and ThinkorSwim whom allows equity trading as well.  The measured success is to out beat competition by looking at financials, fees per million (FPM), and total credit average daily volume (ADV) which reached $13.1B, press released on December 5, 2022.
 
 
+ ### <span style="color:lightblue"> Below shows the uptick of trading automation for Market Axess credit trading. </span>
 ![MarketAxess Investor Relations.](MarketAxess.png)
-
-![MarketAxess Investor Relations](https://s201.q4cdn.com/767283836/files/doc_financials/2022/q3/3Q22-Earnings-Deck-Final_No-Notes-(1).pdf)
-
-![MarketAxess](https://github.com/NeycJ/Marketaxess.git)
-
-
 
 
 
@@ -64,8 +61,8 @@ Vaneck.com
 
 
 
+<span style="color:lightblue"> Secuirities Industry and Financial Markets Association (SFMA) provides institution comparison among bond trading firms.</span>
 
-
-![MarketAxess.png](MarketAxess.png)
+![SIFMA.png](SIFMA.png)
 
 
